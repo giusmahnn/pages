@@ -30,8 +30,10 @@ To verify the correctness of the implemented routing and functionality, I wrote 
 ## Images
 Home page
 ![Image Alt Text](images/home.PNG)
+
 About Page
 ![Image Alt Text](images/about.PNG)
+
 Test
 ![Image Alt Text](images/test.PNG)
 
